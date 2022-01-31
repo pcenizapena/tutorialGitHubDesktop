@@ -1,0 +1,17 @@
+.lateral {
+    background-color: lightskyblue;
+    list-style: none;
+    padding: 5px;
+    width: 60px;
+}
+a.link{
+    font-weight: bold;
+}
+a:visited{
+    color: mediumorchid;
+}
+a:hover{
+    color:red;
+    font-weight: bold;
+    cursor: pointer;
+}
