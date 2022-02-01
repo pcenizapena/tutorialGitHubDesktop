@@ -1,0 +1,73 @@
+.titulo {
+    color: green;
+}
+.edit1 {
+    color: red;
+}
+.edit2 {
+    color:yellow
+}
+.subtitulo {
+    color: blue;
+}
+.enlace {
+    color: red;
+}
+.subenlace {
+    color: blue;
+}
+.edit3 {
+    color: blueviolet;
+}
+.tabla {
+    border: 1px black solid;
+    border-collapse: collapse;
+}
+.tabla tr {
+    border: 1px black solid;
+    border-collapse: collapse
+}
+.tabla th {
+    border: 1px black solid;
+    border-collapse: collapse
+}
+.tabla td {
+    border: 1px black solid;
+    border-collapse: collapse
+}
+.titabla {
+    color: blue;
+}
+.linea1 {
+    color: yellow;    
+}
+.linea2 {
+    color: green;    
+}
+.linea3 {
+    color: green;    
+}
+.linea4 {
+    color: red;    
+}
+.f1c0{
+    color: yellow;
+}
+.f2c0{
+    color: red;
+}
+.edit4 {
+    color: yellow;
+}
+.parrafo {
+    color: green;
+}
+.edit5 {
+    color: palevioletred;
+}
+.parrafo2 {
+    color: green;
+}
+.enlace2 {
+    color: green;
+}

@@ -1,0 +1,42 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: grey;
+}
+#main-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#img-container {
+    display: flex;
+    flex-direction: row;
+}
+#info-container {
+    margin-left: 20px;
+}
+.generic-button {
+    padding: 7px;
+    border-radius: 10px;
+}
+.reservation {
+    background-color: white;
+    border: 2px solid grey;
+}
+.presupuesto {
+    background-color: grey;
+    color: white;
+    border: none;
+    padding: 9px;
+}
+#review-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.score {
+    background-color: grey;
+    color: black;
+    align-items: center;
+    padding: 15px;
+}
